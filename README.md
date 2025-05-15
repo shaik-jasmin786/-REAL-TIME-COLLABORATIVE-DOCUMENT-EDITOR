@@ -41,3 +41,4 @@ Flask-SocketIO: An extension of Flask that enables WebSocket support to facilita
 
 OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/82700a9b-cf7e-46ae-a414-58c7295b1044)
